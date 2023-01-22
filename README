@@ -1,1 +1,8 @@
 This player is madhe with the help of kivy in python. All the images that are used are uploaded.
+To import the packages without any error do run follwing line in the terminal.
+
+# to install kivy
+pip install kivy
+
+# to install kivy.md
+pip install kivy.md
